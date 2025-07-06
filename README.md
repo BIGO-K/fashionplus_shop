@@ -1,8 +1,8 @@
 # 패션플러스 리뉴얼 2020 (pc/mobile/admin)
 + 엠몬스타 전체 일정
-	https://docs.google.com/spreadsheets/d/1ExM1T59YjsDJhZJajegziMwlqQb6MLMfI_Mo6ejRIHE/edit#gid=425404578
+	https://docs.google.com/spreadsheets/
 + 스토리보드 구글드라이브 경로
-	https://drive.google.com/drive/u/0/folders/16g7QnXLWtqricFatBIgcJ0WizZVxSlp5
+	https://drive.google.com/drive/u/
 + 퍼블리싱 작업 리스트
 	- pc : http://publish.mmonstar.co.kr/fashionplus/shop_2020/pc/
 	- mobile : http://publish.mmonstar.co.kr/fashionplus/shop_2020/mobile/
@@ -36,7 +36,7 @@
 
 ## DESIGN
 + 디자인 구글드라이브 경로
-	https://drive.google.com/drive/u/0/folders/1VerrH1UDXEaNry3KSnTID7HSzcj-FEW9
+	https://drive.google.com/drive/
 <br><br>
 - - -
 
