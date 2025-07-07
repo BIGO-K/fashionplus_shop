@@ -1,23 +1,21 @@
-# 패션플러스 리뉴얼 2020 (pc/mobile/admin)
+# 패션플러스 리뉴얼 (pc/mobile/admin)
+_2020.08 ~ 2020.12_
 + 엠몬스타 전체 일정
-	https://docs.google.com/spreadsheets/
 + 스토리보드 구글드라이브 경로
-	https://drive.google.com/drive/u/
 + 퍼블리싱 작업 리스트
-	- pc : http://publish.mmonstar.co.kr/fashionplus/shop_2020/pc/
-	- mobile : http://publish.mmonstar.co.kr/fashionplus/shop_2020/mobile/
-	- admin : http://publish.mmonstar.co.kr/fashionplus/shop_2020/admin/
+	- pc
+	- mobile
+	- admin
 + vscode에서 작업할 경우 **SFTP** 를 이용하면 FTP에 바로 업로드됩니다.
 	- SFTP의 **sftp.json** 파일설정
 		```
 		"name": "ftp",
-		"host": "1.xxx.xx.x2",
+		"host": "",
 		"protocol": "sftp",
 		"port": 8023,
-		"username": "mmon_publish",
+		"username": "",
 		"password": "비밀번호",
-		"remotePath": "/home/mmon_publish/html/fashionplus/shop_2020/",
-		"remotePath": "/home/mmon_publish/작업자/html/fashionplus/shop_2020/",(서브 작업자 설정방식)
+		"remotePath": "",
 		"uploadOnSave": true,
 		...
 		"watcher": {
@@ -36,7 +34,6 @@
 
 ## DESIGN
 + 디자인 구글드라이브 경로
-	https://drive.google.com/drive/
 <br><br>
 - - -
 
